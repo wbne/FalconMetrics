@@ -17,6 +17,11 @@ div{
   background: #55ccff;
   color: #fff;
 }
+#body{
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
 h1{
   font-size: 34px;
 }
