@@ -1,9 +1,11 @@
 body{
   text-align: center;
-  background-color: #c0cbcc;
-  font: "Comic Sans MS";
+  background-color: #aaeeee;
+  font-family: "Comic Sans MS", "Arial";
   margin-left: 5em;
   margin-right: 5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
   
 }
 div{
@@ -13,4 +15,16 @@ div{
 #title{
   background: #55ccff;
   color: #fff;
+}
+h1{
+  font-size: 22px;
+}
+h2{
+  font-size: 19px;
+}
+h3{
+  font-size: 17px;
+}
+p{
+  font-size: 15px;
 }
