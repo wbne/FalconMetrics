@@ -2,10 +2,15 @@ body{
   text-align: center;
   background-color: #c0cbcc;
   font: "Comic Sans MS";
+  margin-left: 5em;
+  margin-right: 5em;
+  
 }
 div{
     background: #bbb;
+    margin: 1em;
 }
 #title{
-  color: #55ccff;
+  background: #55ccff;
+  color: #fff;
 }
